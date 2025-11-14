@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mezhaul App Support</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      margin: 0;
+      padding: 20px;
+      color: #320366;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0px 4px 12px rgba(0,0,0,0.08);
+    }
+    h1 {
+      text-align: center;
+      color: #b442d6;
+      font-size: 2.2rem;
+      margin-bottom: 10px;
+    }
+    p, li {
+      font-size: 1rem;
+      color: #320366;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Mezhaul App Support</h1>
+
+    <p>
+      Welcome to the Mezhaul support page. We are here to assist you with any issues,
+      questions, or feedback related to the Mezhaul mobile application.
+    </p>
+
+    <h2>How to Get Help</h2>
+    <ul>
+      <li><strong>Email Support:</strong> <a href="mailto:info@mezhaul.co.za">info@mezhaul.co.za</a></li>
+      <li><strong>Response Time:</strong> Typically within 24–48 hours.</li>
+    </ul>
+
+    <h2>Common Topics</h2>
+    <ul>
+      <li>Account creation & login issues</li>
+      <li>Order tracking</li>
+      <li>Vendor listings</li>
+      <li>Payment or checkout problems</li>
+      <li>Reporting bugs or app crashes</li>
+    </ul>
+
+    <p>If you need assistance, please reach out — we're here to help!</p>
+  </div>
+</body>
+</html>
